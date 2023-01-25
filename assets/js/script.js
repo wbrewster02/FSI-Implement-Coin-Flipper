@@ -1,4 +1,10 @@
 // TODO: Declare any global variables we need
+    let heads = null
+    let tails = null
+    let total = null
+    let headsPercent = null
+    let tailsPercent = null
+
 
 
 document.addEventListener('DOMContentLoaded', function () {
